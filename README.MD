@@ -13,3 +13,5 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 - Cada trabajo está organizado en carpetas individuales.  
 - Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
 - Se busca mantener un código limpio, ordenado y bien documentado.  
+
+Este es un cambio combinado de ambas ramas para el TP.
