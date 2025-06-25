@@ -86,7 +86,7 @@ Este proyecto simula un sistema de gestión de turnos para una clínica. Se impl
 Trabajo-Integrador-UTN/  
 │  
 ├── gestion_turnos.py  
-├── Trabajo_Integrador_P1_UTN_QuirogaCamilo.pdf  
+├── Trabajo_Integrador_final_P1_UTN_QuirogaCamilo.pdf  
 ├── grafico_rendimiento.png  
 ├── README.txt  
 
