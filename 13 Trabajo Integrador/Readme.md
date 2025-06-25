@@ -2,7 +2,7 @@
 
 🏥 Trabajo Integrador Final – Programación I – UTN
 
-Alumno: Camilo Sol Quiroga  
+Alumno: Camilo Quiroga  
 Comisión: 19  
 Materia: Programación I  
 Tema: Algoritmos de Búsqueda y Ordenamiento  
@@ -66,7 +66,7 @@ Este proyecto simula un sistema de gestión de turnos para una clínica. Se impl
 
 🎥 Video Explicativo
 
-🔗 https://www.youtube.com/ 
+🔗 https://youtu.be/6f-WdVHx6c4
 
 
 ---
@@ -91,7 +91,3 @@ Trabajo-Integrador-UTN/
 ├── README.txt  
 
 ---
-
-📌 Observaciones
-
-Si bien la consigna sugiere realizar el trabajo en pareja, por cuestiones de tiempo y coordinación no fue posible concretarlo con otro compañero dentro del plazo estipulado. Ante la cercanía de la fecha límite, se decidió avanzar de manera individual para cumplir con la entrega y demostrar los conocimientos adquiridos a lo largo de la cursada.
