@@ -33,7 +33,7 @@ Este proyecto simula un sistema de gestión de turnos para una clínica. Se impl
 
 ▶️ En VS Code (Entorno Local)  
 1. Clonar el repositorio:  
-   `git clone `  
+   `git clone https://github.com/camiloquirogadev/UTN-TUPaD-P1/tree/main/13%20Trabajo%20Integrador`  
 2. Ingresar a la carpeta del proyecto:  
    `cd 13 Trabajo Integrador`  
 3. Instalar dependencias (opcional):  
